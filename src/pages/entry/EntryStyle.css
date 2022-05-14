@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&family=Roboto&display=swap');
+
+.entry-page {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Poppins";
+}
+.jumbotron {
+  padding: 3rem 2rem;
+  margin-bottom: 2rem;
+  border-radius: .3rem;  
+  box-shadow: 0 0 15px -5px black;
+}
+
+.forgot-pass {
+  text-decoration: none;
+}
