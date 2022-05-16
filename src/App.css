@@ -1,3 +1,10 @@
+.jumbotron {
+  padding: 3rem 2rem;
+  margin-bottom: 2rem;
+  border-radius: .3rem;  
+  box-shadow: 0 0 15px -5px black;
+}
+
 .default-layout {
     display: grid;
     grid-template-rows: 80px auto 3rem;
