@@ -3,7 +3,24 @@
         "id":1,
         "subject":"Email with ssl certificate",
         "status":"Client response pending",
-        "addedAt":"2022-05-16"
+        "addedAt":"2022-05-16",
+        "history": [
+            {
+                "date": "22-05-17",
+                "message": "hello",
+                "messageBy": "client"
+            },
+            {
+                "date": "22-05-17",
+                "message": "what is your name",
+                "messageBy": "operator"
+            },
+            {
+                "date": "22-05-17",
+                "message": "my name is clara",
+                "messageBy": "client"
+            }
+        ]
     },
     {
         "id":2,
